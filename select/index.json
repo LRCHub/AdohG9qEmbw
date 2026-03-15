@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "にくたらしいわ",
+  "base_artist": "niKu",
+  "createdAt": "2026-03-15T15:15:03.359712Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にくたらしいわ (feat. 桜あおい)",
+      "artist": "niKu",
+      "has_synced": false,
+      "path": "select/pl_01_にくたらしいわ_(feat._桜あおい)_niKu.txt"
+    }
+  ]
+}
